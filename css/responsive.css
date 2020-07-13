@@ -1,0 +1,462 @@
+@media(min-width: 200px){
+
+
+.navbar-light .navbar-brand {
+    padding: 24px 0;
+}
+.navbar-brand img{
+	width: 120px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 0 18px;
+}
+
+.carousel-indicators .active{
+	width: 40px;
+	height: 10px;
+}
+.carousel-indicators li{
+	width: 20px;
+	height: 10px;
+}
+.carousel-item h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+.carousel-item p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.click{
+    margin-top: 16px;
+}
+.click a{
+    padding:8px 12px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.click i{
+	
+padding-left: 6px;
+}
+.carousel-item img{
+    padding: 48px;
+}
+.product-phone{
+    margin: 32px 0;
+}
+
+.product-section a h3{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.product-section .see a h3 {
+	font-size: 20px;
+	font-weight: 700;
+	margin-bottom: 32px;
+}
+
+
+.shadow-1 {box-shadow: 0 7px 12px rgba(51, 51, 51, 0.08)!important;margin-bottom: 16px;height: 380px;}
+.product-section img{
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+.product-section h2{
+    font-size: 24px;
+    font-weight: 700;
+}
+.product-section p{
+    font-size: 14px;
+    font-weight: 400;
+}
+.product-section h3{
+    font-size: 24px;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+
+.categories{
+    padding: 48px 0;
+}
+.categories-section .shadow-2{
+    padding: 32px;
+    box-shadow: 0 2px 3px hsla(0, 0%, 20%, .2);
+}
+.categories-section h2{
+    font-size: 25px;
+    font-weight: 700;
+    padding-bottom: 2px;
+}
+.categories-section span{
+    display: block;
+    width: 70px;
+    height: 10px;
+    margin: 0 auto 32px;
+}
+
+.categories-section h4{
+    font-size: 32px;
+    font-weight: 600;
+
+}
+.col-p{
+    padding: 0;
+}
+
+}
+@media(min-width: 568px){
+
+
+.navbar-light .navbar-brand {
+    padding: 26px 0;
+}
+.navbar-brand img{
+	width: 130px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0 18px;
+}
+
+.carousel-indicators .active{
+	width: 42px;
+	height: 12px;
+}
+.carousel-indicators li{
+	width: 22px;
+	height: 12px;
+}
+.carousel-item h3{
+    font-size: 26px;
+    font-weight: 700;
+}
+.carousel-item p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.click{
+    margin-top: 16px;
+}
+.click a{
+    padding:8px 12px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.click i{
+	
+padding-left: 6px;
+}
+.carousel-item img{
+    padding: 32px;
+}
+.product-phone{
+    margin: 32px 0;
+}
+
+.product-section a h3{
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+.product-section .see a h3 {
+	font-size: 26px;
+	font-weight: 700;
+	margin-bottom: 32px;
+}
+
+
+.shadow-1 {
+    height: 420px;
+}
+.product-section img{
+    height: 180px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+.product-section h2{
+    font-size: 26px;
+    font-weight: 700;
+}
+.product-section p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.product-section h3{
+    font-size: 26px;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+
+.categories{
+    padding: 48px 0;
+}
+.categories-section .shadow-2{
+    padding: 32px;
+}
+.categories-section h2{
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 3px;
+}
+.categories-section span{
+    display: block;
+    width: 80px;
+    height: 12px;
+    margin: 0 auto 32px;
+}
+
+.categories-section h4{
+    font-size: 32px;
+    font-weight: 600;
+
+}
+.col-p{
+    padding: 0;
+}
+	
+}
+@media(min-width: 778px){
+
+
+.navbar-light .navbar-brand {
+    padding: 32px 0;
+}
+.navbar-brand img{
+	width: 150px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0 18px;
+}
+
+.carousel-indicators .active{
+	width: 48px;
+	height:16px;
+
+}
+.carousel-indicators li{
+	width: 24px;
+	height:16px;
+}
+.carousel-item h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.carousel-item p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.click{
+    margin-top: 16px;
+}
+.click a{
+    padding:8px 12px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.click i{
+	
+padding-left: 6px;
+}
+.carousel-item img{}
+.product-phone{
+    margin: 32px 0;
+}
+
+.product-section a h3{
+    font-size: 32px;
+    font-weight: 700; 
+    margin-bottom: 32px;
+}
+.product-section .see a h3 {
+	font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+
+
+.shadow-1 {
+    height: 550px;
+}
+.product-section img{
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+.product-section h2{
+    font-size: 32px;
+    font-weight: 700;;
+}
+.product-section p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.product-section h3{
+    font-size: 32px;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+
+.categories{
+    padding: 48px 0;
+}
+.categories-section .shadow-2{
+    padding: 32px;
+}
+.categories-section h2{
+    font-size: 38px;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+.categories-section span{
+    display: block;
+    width: 100px;
+    height: 15px;
+
+    margin: 0 auto 32px;
+}
+
+.categories-section h4{
+    font-size: 32px;
+    font-weight: 600;
+
+}
+.col-p{padding: 0;}
+	
+}
+@media(min-width: 992px){
+	
+
+	
+.navbar-light .navbar-brand {
+    padding: 32px 0;
+}
+.navbar-brand img{
+	width: 150px;
+}
+.navbar-light .navbar-nav .nav-link {
+    font-size: 18px;
+    font-weight: 700;
+    padding: 0 18px;
+}
+
+.carousel-indicators .active{
+	width: 48px;
+	height:16px;
+
+}
+.carousel-indicators li{
+	width: 24px;
+	height:16px;
+}
+.carousel-item h3{
+    font-size: 32px;
+    font-weight: 700;
+}
+.carousel-item p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.click{
+    margin-top: 16px;
+}
+.click a{
+    padding:8px 12px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.click i{
+	
+padding-left: 6px;
+}
+.carousel-item img{}
+.product-phone{
+    margin: 32px 0;
+}
+
+.product-section a h3{
+    font-size: 32px;
+    font-weight: 700; 
+    margin-bottom: 32px;
+}
+.product-section .see a h3 {
+	font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 32px;
+}
+
+
+.shadow-1 {
+    height: 500px;
+}
+.product-section img{
+    height: 225px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+.product-section h2{
+    font-size: 32px;
+    font-weight: 700;;
+}
+.product-section p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.product-section h3{
+    font-size: 32px;
+    margin-bottom: 16px;
+    font-weight: 700;
+}
+
+
+.categories{
+    padding: 48px 0;
+}
+.categories-section .shadow-2{
+    padding: 32px;
+}
+.categories-section h2{
+    font-size: 38px;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+.categories-section span{
+    display: block;
+    width: 100px;
+    height: 15px;
+
+    margin: 0 auto 32px;
+}
+
+.categories-section h4{
+    font-size: 32px;
+    font-weight: 600;
+
+}
+.col-p{padding: 15px;}
+}
+@media(min-width: 1200px){
+	.shadow-1 {
+    height: 550px;
+}
+	.product-section img{
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 16px;
+}
+}
